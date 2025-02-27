@@ -25,7 +25,7 @@ In the previous section, the necessary sections were set up in preparation to sh
 <img src="https://i.imgur.com/TS1vg6U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-We'll kick off my navigating to webpage as seen above where we'll create a ticket as an end-user by reporting a specific problem
+We'll kick off by navigating to the webpage as seen above where a ticket will be created by an end-user
 </p>
 <br />
 
@@ -33,7 +33,7 @@ We'll kick off my navigating to webpage as seen above where we'll create a ticke
 <img src="https://i.imgur.com/JwB5lpy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-On this page, the specific problem is logged in with details of the end-user
+Karen will be the user who logs in a specific problem 
 </p>
 <br />
 
@@ -41,14 +41,14 @@ On this page, the specific problem is logged in with details of the end-user
 <img src="https://i.imgur.com/3r1GzyH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From the previous section, John is a member of the suppport, so we login as John to view and act on the ticket created
+From the previous section, John is a member of the suppport team, so we'll login as John to view and act on the ticket created
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1BEPVWg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
