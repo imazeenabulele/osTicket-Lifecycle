@@ -47,30 +47,26 @@ From the previous section, John is a member of the suppport team, so we'll login
 </p>
 
 <p>
-We'll assign the ticket to the "Online Banking" team, set SLA plan to SEV-A and select the suitable Help Topic. See below:
+We'll assign the ticket to the "Online Banking" team, set SLA plan to SEV-A and select the suitable Help Topic. When updates are made, everyone authorized gets an email and an active trail of  the updates can be seen as in the second image below
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/1BEPVWg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-The updates can be seen 
-</p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/fxmPIq6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now we'll login in as Jane to work ticket. Remember Jane is a member of the online banking team
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZMQ00mE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
