@@ -30,12 +30,14 @@ We'll kick off by navigating to the webpage as seen above where a ticket will be
 </p>
 
 <p>
-<img src="https://i.imgur.com/JwB5lpy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Karen will be the user who logs in a specific problem 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/JwB5lpy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 
 <p>
 <img src="https://i.imgur.com/3r1GzyH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
