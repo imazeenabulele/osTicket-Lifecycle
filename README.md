@@ -38,13 +38,13 @@ Let's have a user named Karen create a ticket to report a specific problem
 <img src="https://i.imgur.com/JwB5lpy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-
+<p>
+From the previous section, John is a member of the suppport team, so we'll login as John to view and act on the ticket created
+</p>
+<br />
 <p>
 <img src="https://i.imgur.com/3r1GzyH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-From the previous section, John is a member of the suppport team, so we'll login as John to view and act on the ticket created
-<br />
 
 <p>
 <img src="https://i.imgur.com/1BEPVWg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
