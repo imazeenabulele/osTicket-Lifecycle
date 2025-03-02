@@ -47,6 +47,10 @@ From the previous section, John is a member of the suppport team, so we'll login
 </p>
 
 <p>
+We'll assign the ticket to the "Online Banking" team, set SLA plan to SEV-A and select the suitable Help Topic. See below:
+</p>
+<br />
+<p>
 <img src="https://i.imgur.com/1BEPVWg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
