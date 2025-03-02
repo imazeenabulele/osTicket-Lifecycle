@@ -21,7 +21,7 @@ In the previous section, the necessary sections were set up in preparation to sh
 
 <h2>Lifecycle Stages</h2>
 <p>
-We'll kick off by navigating to the webpage as seen above where a ticket will be created by an end-user
+We'll kick off by navigating to the webpage as seen below where a ticket will be created by an end-user
 </p>
 <br />
 
@@ -31,7 +31,7 @@ We'll kick off by navigating to the webpage as seen above where a ticket will be
 <br />
 
 <p>
-Karen will be the user who logs in a specific problem 
+Let's have a user named Karen create a ticket to report a specific problem 
 </p>
 <br />
 <p>
