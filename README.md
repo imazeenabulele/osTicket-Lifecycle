@@ -29,7 +29,6 @@ We'll kick off by navigating to the webpage as seen below where a ticket will be
 <img src="https://i.imgur.com/TS1vg6U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-
 <p>
 Let's have a user named Karen create a ticket to report a specific problem 
 </p>
