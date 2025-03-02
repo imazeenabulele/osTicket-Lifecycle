@@ -81,3 +81,12 @@ A reply would be posted by Jane in the thread and everyone subscribed to the tic
 <p>
 <img src="https://i.imgur.com/eGJvMbq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+Once it's determinded on the backend that it was an update issue and the system was rolled back,  Jane would go ahead to post an update 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/eMFMrwR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
