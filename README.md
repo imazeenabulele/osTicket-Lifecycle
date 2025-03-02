@@ -66,7 +66,7 @@ Now we'll login in as Jane to work the ticket. Remember Jane is a member of the 
 <img src="https://i.imgur.com/ZMQ00mE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The online banking team would have other team members, but let's have Jane pick it up. In doing so, she would assing the ticket to herself
+The online banking team would have other team members, but let's have Jane pick it up. In doing so, she would assign the ticket to herself
 </p>
 <br />
 
@@ -74,6 +74,10 @@ The online banking team would have other team members, but let's have Jane pick 
 <img src="https://i.imgur.com/U508OYW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A reply would be posted by Jane in the thread and everyone subscribed to the ticket would also see it to know the status of resolution
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/eGJvMbq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
