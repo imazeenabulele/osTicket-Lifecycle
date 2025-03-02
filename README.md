@@ -90,3 +90,13 @@ Once it's determinded on the backend that it was an update issue and the system 
 <p>
 <img src="https://i.imgur.com/eMFMrwR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+Now the ticket can be set to "RESOLVED"
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/vlaNygH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
