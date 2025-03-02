@@ -20,15 +20,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 In the previous section, the necessary sections were set up in preparation to show the lifecycle of a ticket frpm creation to resolution. This section would show how the ticket is created and received, 
 
 <h2>Lifecycle Stages</h2>
-
-<p>
-<img src="https://i.imgur.com/TS1vg6U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
 <p>
 We'll kick off by navigating to the webpage as seen above where a ticket will be created by an end-user
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/TS1vg6U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 <p>
 <img src="https://i.imgur.com/JwB5lpy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
