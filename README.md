@@ -58,7 +58,7 @@ We'll assign the ticket to the "Online Banking" team, set SLA plan to SEV-A and 
 <img src="https://i.imgur.com/fxmPIq6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now we'll login in as Jane to work ticket. Remember Jane is a member of the online banking team
+Now we'll login in as Jane to work the ticket. Remember Jane is a member of the online banking team
 </p>
 <br />
 
