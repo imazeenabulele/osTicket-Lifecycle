@@ -1,102 +1,51 @@
-# OsTicket-Lifecycle
+# Active_Directory_Deployment
+
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/dD3HdHo.jpeg" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
+This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+
 
 <h2>Environments and Technologies Used</h2>
-- osTicket
 
-<h2>Ticket Lifecycle Stages</h2>
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Active Directory Domain Services
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+<h2>Operating Systems Used </h2>
 
-<h2>Description</h2>
-In the previous section, the necessary sections were set up in preparation to show the lifecycle of a ticket frpm creation to resolution. This section would show how the ticket is created and received, 
+- Windows Server 2022
+- Windows 10 (21H2)
 
-<h2>Lifecycle Stages</h2>
+<h2>High-Level Deployment and Configuration Steps</h2>
+
+- Install Active Directory services on DC-1
+- Create a Domain Admin user
+- Join Client-1 VM to the domain
+
+<h2>Deployment and Configuration Steps</h2>
+
 <p>
-We'll kick off by navigating to the webpage as seen below where a ticket will be created by an end-user
+To start this off, login to the DC-1 via remote desktop connection (this was shown in the previous section). <br /> 
+Once logged in, navigate to the start tab and click on "Server Manager". Once the dialog box opens up, click on "ADD ROLES AND FEATURES" as seen below
+</p>
+
+<p>
+<img src="https://i.imgur.com/LFjPhpU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/TS1vg6U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
-<p>
-Let's have a user named Karen create a ticket to report a specific problem 
-</p>
-<br />
-<p>
-<img src="https://i.imgur.com/JwB5lpy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Click on Next until the page below comes up. We need to add "Active Directory Domain Services" so click on it and "Add features". Click on "Next" until the Install page is reached. Install and close afterwards
 </p>
 
 <p>
-From the previous section, John is a member of the suppport team, so we'll login as John to view and act on the ticket created
+<img src="https://i.imgur.com/YDaszj6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
-<p>
-<img src="https://i.imgur.com/3r1GzyH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<br /> 
 
 <p>
-We'll assign the ticket to the "Online Banking" team, set SLA plan to SEV-A and select the suitable Help Topic. When updates are made, everyone authorized gets an email and an active trail of  the updates can be seen as in the second image below
-</p>
-<br />
-<p>
-<img src="https://i.imgur.com/1BEPVWg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
-<img src="https://i.imgur.com/fxmPIq6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Now we'll login in as Jane to work the ticket. Remember Jane is a member of the online banking team
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/ZMQ00mE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-The online banking team would have other team members, but let's have Jane pick it up. In doing so, she would assign the ticket to herself
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/U508OYW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-A reply would be posted by Jane in the thread and everyone subscribed to the ticket would also see it to know the status of resolution
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/eGJvMbq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
-Once it's determinded on the backend that it was an update issue and the system was rolled back,  Jane would go ahead to post an update 
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/eMFMrwR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
-Now the ticket can be set to "RESOLVED"
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/vlaNygH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
+Now, we are going to promote DC-1 as an actual domain controller. This means it would be configured to become the domain controller. <br /> 
+Go back to the "Service Manager Dashboard" and navigate to a "flag" at the top right corner of the page and click "promote this server as a domain controller" </p>
